@@ -1,0 +1,14 @@
+{
+  "title": "Universities Studying Slavery",
+  "font_header": "Libre Bodoni",
+  "header_size": "74px",
+  "font_body": "Open Sans",
+  "primary_color": "#303030",
+  "secondary_color": "#303030",
+  "tertiary_color": "#EBE7E0",
+  "background_color": "#F5F3EF",
+  "background_alternate": "#EBE7E0",
+  "footer": {
+    "allow_login": false
+  }
+}
