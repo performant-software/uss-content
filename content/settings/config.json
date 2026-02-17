@@ -33,7 +33,7 @@
     "result_card": {
       "title": "name",
       "attributes": [{
-        "name": "2553106c-0181-430b-b96b-dbd11113e4b2"
+        "name": "11edc963-d38f-4bae-ac72-0acdc9010590.0.name"
       }, {
         "name": "c449181e-4316-45cf-8412-3d7118e57d52"
       }, {
@@ -46,8 +46,8 @@
       "name": "c449181e-4316-45cf-8412-3d7118e57d52_facet",
       "type": "list"
     }, {
-      "name": "2553106c-0181-430b-b96b-dbd11113e4b2_facet",
-      "type": "select"
+      "name": "11edc963-d38f-4bae-ac72-0acdc9010590.name_facet",
+      "type": "list"
     }, {
       "name": "87575ca6-b19d-4a79-8867-73a5cbfdcab8_facet",
       "type": "select"
@@ -63,7 +63,7 @@
       "facets": {
         "include": [
           "c449181e-4316-45cf-8412-3d7118e57d52_facet",
-          "2553106c-0181-430b-b96b-dbd11113e4b2_facet",
+          "11edc963-d38f-4bae-ac72-0acdc9010590.name_facet",
           "87575ca6-b19d-4a79-8867-73a5cbfdcab8_facet"
         ]
       }
