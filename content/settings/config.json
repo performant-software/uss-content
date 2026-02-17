@@ -37,7 +37,8 @@
       }, {
         "name": "c449181e-4316-45cf-8412-3d7118e57d52"
       }, {
-        "name": "fd535744-264e-4c49-af2d-82f648262abb"
+        "name": "fd535744-264e-4c49-af2d-82f648262abb",
+        "parser": "fuzzyDate"
       }, {
         "name": "87575ca6-b19d-4a79-8867-73a5cbfdcab8"
       }]
