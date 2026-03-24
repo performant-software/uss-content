@@ -6,7 +6,7 @@
     "posts_config": {
       "sort_by": {
         "name": "date",
-        "direction": "descending"
+        "direction": "desc"
       }
     }
   },
