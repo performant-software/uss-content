@@ -2,7 +2,13 @@
   "content": {
     "collections": [
       "posts"
-    ]
+    ],
+    "posts_config": {
+      "sort_by": {
+        "name": "date",
+        "direction": "descending"
+      }
+    }
   },
   "core_data": {
     "url": "https://app.coredata.cloud",
