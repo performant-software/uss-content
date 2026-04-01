@@ -1,6 +1,111 @@
 ---
 title: Accessibility
+nav_bar: false
 sections:
   - _template: free_text
+    body: >
+      # Accessibility Statement
+
+
+      *Last updated: April 1, 2026*
+
+
+      Universities Studying Slavery (USS) is committed to ensuring that this
+      website is accessible to all users, including people with disabilities. We
+      strive to conform to the [Web Content Accessibility Guidelines (WCAG) 2.1
+      Level AA](https://www.w3.org/TR/WCAG21/) standards.
+
+
+      ## Our Accessibility Practices
+
+
+      ### Standards and Testing
+
+
+      We test this website for accessibility conformance using automated scanning
+      with [axe-core](https://github.com/dequelabs/axe-core), integrated into
+      our end-to-end test suite via
+      [Playwright](https://playwright.dev/). Our automated tests run against
+      all major page types — including the home page, search interfaces, detail
+      pages, posts, and content pages — across three browser engines (Chromium,
+      Firefox, and WebKit/Safari). Tests enforce a zero-violations standard:
+      any WCAG 2.1 Level A or AA violation causes the test to fail.
+
+
+      ### Keyboard Navigation
+
+
+      All interactive elements on this site are operable via keyboard. We use
+      accessible component libraries
+      ([Headless UI](https://headlessui.com/) and [Radix
+      UI](https://www.radix-ui.com/)) that provide built-in keyboard
+      navigation, focus management, and screen reader support for interactive
+      elements such as dropdown menus, dialogs, disclosure panels, and tab
+      groups.
+
+
+      ### Screen Reader Support
+
+
+      We use semantic HTML throughout the site, including proper heading
+      hierarchy, landmark regions (such as `<main>` for primary content), and
+      language attributes on the document. Interactive elements include ARIA
+      labels where needed, and decorative icons are hidden from assistive
+      technology with `aria-hidden`. Screen-reader-only text is used to provide
+      additional context where visual cues alone are insufficient.
+
+
+      ### Visual Design
+
+
+      Focus indicators are visible on all interactive elements. The site is
+      fully responsive and usable across screen sizes, including mobile devices.
+
+
+      ## Known Limitations
+
+
+      While we work to ensure comprehensive accessibility, some areas may
+      present challenges:
+
+
+      - **Interactive maps:** The map-based search interface uses MapLibre GL
+      for rendering. While the surrounding controls (filters, table view,
+      detail panels) are fully accessible, some map interactions (panning,
+      zooming, clicking individual map markers) may be difficult to operate
+      without a mouse. The table view provides an alternative way to browse and
+      access all search results without using the map.
+
+      - **Third-party content:** Some embedded content or linked resources from
+      external sources may not meet the same accessibility standards.
+
+      - **Historical images:** Some historical images in the collection may lack
+      detailed alt text descriptions. We are working to improve image
+      descriptions over time.
+
+
+      ## Feedback
+
+
+      We welcome your feedback on the accessibility of this site. If you
+      encounter accessibility barriers or have suggestions for improvement,
+      please contact us:
+
+
+      - **Email:** ussconsortium@gmail.com
+
+      - **Subject line:** Accessibility Feedback
+
+
+      We aim to respond to accessibility feedback within 5 business days.
+
+
+      ## Continuous Improvement
+
+
+      Accessibility is an ongoing effort. We regularly review and update this
+      site to improve accessibility, and our automated test suite runs with
+      every code change to prevent regressions. This statement will be updated
+      as we make further improvements.
 ---
 

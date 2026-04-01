@@ -9,6 +9,9 @@
   "background_color": "#F5F3EF",
   "background_alternate": "#EBE7E0",
   "footer": {
-    "allow_login": false
+    "allow_login": false,
+    "terms_url": "/en/pages/terms/",
+    "privacy_url": "/en/pages/privacy/",
+    "accessibility_url": "/en/pages/accessibility/"
   }
 }
