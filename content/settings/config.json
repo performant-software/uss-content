@@ -30,7 +30,7 @@
   "layers": [{
       "name": "Maptiler DataViz Style",
       "layer_type": "vector",
-      "url": "https://api.maptiler.com/maps/dataviz/style.json?key=DICl11L0kocVzMWdoynh"
+      "url": "https://api.maptiler.com/maps/dataviz/style.json?key=yQBIvOO2xHwt9pVfpGuW"
   }],
   "posts_config": {
     "sort_by": "date"
